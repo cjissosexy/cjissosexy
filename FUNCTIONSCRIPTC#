@@ -1,0 +1,15 @@
+//Comment example
+//Obama's last name
+
+//statement
+Debug.log(Hello World);
+
+//Loop
+for(intn1=0;n1<5;n1=i+1);
+
+//Function
+public static.void Main();
+
+//Variable
+string name = "Bill";
+Console.WriteLine(name);
